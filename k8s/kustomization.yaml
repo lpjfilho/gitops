@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: luizpedrojf/gitops
-  newTag: newtag
+  newTag: ab3acdc0a01e2fa3704cb101c590868cea45e1e0
